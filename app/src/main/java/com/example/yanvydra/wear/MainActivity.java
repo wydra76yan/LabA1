@@ -42,14 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 button4.setBackgroundColor(Color.YELLOW);
             }
         });
-        button4.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v){
-                button.setBackgroundColor(Color.BLACK);
-                button2.setBackgroundColor(Color.BLACK);
-                button3.setBackgroundColor(Color.BLACK);
-                button4.setBackgroundColor(Color.BLACK);
-            }
-        });
+        //clear but4
 
 
     }
